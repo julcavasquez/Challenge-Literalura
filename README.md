@@ -15,7 +15,7 @@ Este proyecto consiste en una aplicación de consola desarrollada en Java con Sp
 
 Al ejecutar la aplicación, verás un menú con las siguientes opciones:
 
-![Menú principal](img/menu.png)
+![Menú principal](capturas/menu.png)
 
 ### 1️⃣ Buscar libro por título
 
