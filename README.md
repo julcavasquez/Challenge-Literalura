@@ -20,9 +20,9 @@ Al ejecutar la aplicación, verás un menú con las siguientes opciones:
 ### 1️⃣ Buscar libro por título
 
 Permite consultar un libro utilizando la API externa por su nombre. Si el libro no está en la base de datos, se guarda junto con su autor.
-Nota:
--No permite registrar libro repetido.
--Si hay mas de una coincidencia en la busquedad del libro se guarda el que tiene mayor cantidad de descargas.
+Nota:  
+- No permite registrar libro repetido.  
+- Si hay mas de una coincidencia en la busquedad del libro se guarda el que tiene mayor cantidad de descargas.  
 ![Opcion 1](capturas/opcion1.png)
 
 ### 2️⃣ Listar libros registrados
